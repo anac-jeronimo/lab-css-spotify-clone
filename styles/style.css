@@ -6,3 +6,32 @@ Green: #00B172
 White: #FFF
 
 */
+.spotify-logo {
+    height: 35px;
+    width: 110px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.cover {
+    width: 100%;
+    height: 500px;
+    line-height: 400px;
+    text-align: center;
+    background-image: url('.././images/landing.jpg');
+    margin: auto;
+}
+
+.h1 {
+    color: #FFF;
+}
+.img-p {
+    color: #fff;
+    width: 70%;
+    text-align: center;
+}
+.hr-green.hr {
+    color: #00B172;
+    width: 60%;
+    align-self: center;
+ }
